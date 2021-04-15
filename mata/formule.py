@@ -8,5 +8,5 @@ def zaokrnapolovinu(broj):
 def radianiustepene(broj):
     return(broj * 180 / math.pi)
 
-
-
+def stepeniuradiane(broj):
+    return(broj*math.pi/180)
